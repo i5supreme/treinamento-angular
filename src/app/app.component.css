@@ -1,0 +1,17 @@
+h5 {
+    margin: 1px;
+}
+
+h3 {
+    color: purple;
+}
+
+h1 {
+    color: rgb(11, 159, 204);
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+label {
+    font-weight: bold;
+}
