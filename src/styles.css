@@ -14,7 +14,10 @@ h3 {
 }
 
 body {
-    margin: 2em;
+    background-attachment: fixed;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN780NGJTE7_s0WFebTielnNyBHaIqaKyt4YItu_Te1On9wSjh&s);
+    opacity: 0.2;
+    background-size: 100%;
 }
 
 body,
